@@ -45,7 +45,8 @@ Q1)
     
 Q2)
 
-    Scope: A moblie application that recognize key sound efforts such as car horns and babies and instantly gives them the indication, it does not send an impuse for              every sound out there, but only fir the important ones.
+    Scope: A moblie application that recognize key sound efforts such as car horns and babies and instantly gives them the indication, 
+           it does not send an impuse for every sound out there, but only fir the important ones.
     
     Funtional Requirements - 
     
